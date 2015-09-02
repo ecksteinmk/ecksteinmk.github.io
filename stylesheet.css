@@ -9,5 +9,6 @@
   text-transform: uppercase;
 }
 .jumbo {
-  background-image: url(trees.jpg); 
+  background-image: url(trees.jpg);
+  font-color: white; 
 }
