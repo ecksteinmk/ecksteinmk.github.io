@@ -1,16 +1,16 @@
-.jumbo {
+.jumbotron {
     background-image: url(trees.jpg);
     font-family: sans-serif;
 	height: 2000px; 
 }
-.jumbo h1 {
+.jumbotron h1 {
 	color: #fff;
 	font-size: 60px;
 }
-.jumbo p {
+.jumbotron p {
 	color: #fff;
 	font-size: 32px;
 }
-.jumbo a {
+.jumbotron a {
 	color: #ADD8E6;
 }
