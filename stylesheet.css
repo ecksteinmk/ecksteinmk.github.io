@@ -1,7 +1,9 @@
 .jumbotron {
     background-image: url(chicago.jpg);
-    font-family: sans-serif;
-	height: 2000px; 
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: sans-serif; 
 }
 .jumbotron h1 {
 	color: #fff;
